@@ -257,7 +257,7 @@ st.success("Forecast complete")
 
 st.markdown("""
     <div style='font-size: 20px; background-color: #F77210; color: ghostwhite; margin-top: 20px; height:30px ; width:fit-content; border-radius:5px;'>
-        <pre>Prepared for the <b> GreenAISkills AICTE Internship  </b></pre>
+        <pre>Prepared for the <b> Edunet AICTE Internship by Aaditya Singh Tariyal</b></pre>
     </div>
 """, unsafe_allow_html=True)
 
